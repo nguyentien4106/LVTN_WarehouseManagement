@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.E2E.Tests\\Warehouse_Management.E2E.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.E2E.Tests\\Warehouse_Management.E2E.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.E2E.Tests\\Warehouse_Management.E2E.Tests.csproj",
+        "projectName": "Warehouse_Management.E2E.Tests",
+        "projectPath": "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.E2E.Tests\\Warehouse_Management.E2E.Tests.csproj",
+        "packagesPath": "C:\\Users\\NguyenTien\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.E2E.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NguyenTien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {
+              "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.Module\\Warehouse_Management.Module.csproj": {
+                "projectPath": "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.Module\\Warehouse_Management.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.Module\\Warehouse_Management.Module.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.Module\\Warehouse_Management.Module.csproj",
+        "projectName": "Warehouse_Management.Module",
+        "projectPath": "C:\\Users\\NguyenTien\\OneDrive\\Desktop\\LVTN\\LVTN_WarehouseManagement\\Warehouse_Management\\Warehouse_Management.Module\\Warehouse_Management.Module.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
